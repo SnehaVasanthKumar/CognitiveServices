@@ -1,0 +1,45 @@
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Bot Application.dll.config
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Bot Application.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Bot Application.pdb
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Autofac.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Chronic.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Microsoft.Bot.Builder.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Microsoft.Bot.Connector.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Newtonsoft.Json.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\System.Net.Http.Formatting.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\System.Web.Http.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\System.Web.Http.WebHost.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Autofac.xml
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Microsoft.Bot.Builder.xml
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Microsoft.Bot.Connector.xml
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Newtonsoft.Json.xml
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\System.Web.Http.xml
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\System.Web.Http.WebHost.xml
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\obj\Release\Channel9Coursebot.csprojResolveAssemblyReference.cache
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\obj\Release\Channel9Coursebot.csproj.CoreCompileInputs.cache
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\obj\Release\Channel9Coursebot.csproj.CopyComplete
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\obj\Release\Bot Application.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\obj\Release\Bot Application.pdb
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Microsoft.Cognitive.LUIS.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\AzureTextAnalytics.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\Eyskens.CognitiveServices.Linguistics.dll
+C:\Users\s\source\repos\Channel9Coursebot\Channel9Coursebot\bin\System.Net.Http.Extensions.dll
