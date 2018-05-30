@@ -25,7 +25,7 @@ namespace Channel9Coursebot
 
                 ConnectorClient connector = new ConnectorClient(new System.Uri(activity.ServiceUrl));
 
-                //Sentiment Analytics
+                ////Sentiment Analytics
                 var sentiment = activity.CreateReply();
                 sentiment.Text = await IsPositive(activity.Text) ? "Good, Happy for you" : "I am really sorry!";
                 await connector.Conversations.ReplyToActivityAsync(sentiment);
